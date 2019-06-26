@@ -54,8 +54,8 @@
     <property name="styleSheet">
      <string notr="true">border: 2px white;
 border-radius: 14px;
-background-color:rgba(0,0,0,0.5)
-</string>
+background-color:rgba(0,0,0,0.5);
+color:white;</string>
     </property>
     <property name="text">
      <string>Submit</string>
@@ -80,7 +80,7 @@ background-color:rgba(0,0,0,0.5)
      <string notr="true">border: 2px white;
 border-radius: 14px;
 background-color:rgba(0,0,0,0.5);
-</string>
+color:white;</string>
     </property>
     <property name="text">
      <string>Clear</string>
@@ -105,7 +105,8 @@ background-color:rgba(0,0,0,0.5);
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color:rgba(0,0,0,0)</string>
+     <string notr="true">background-color:rgba(0,0,0,0);
+color:white;</string>
     </property>
     <property name="text">
      <string>Foliage</string>
@@ -130,7 +131,8 @@ background-color:rgba(0,0,0,0.5);
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color:rgba(0,0,0,0)</string>
+     <string notr="true">background-color:rgba(0,0,0,0);
+color:white;</string>
     </property>
     <property name="text">
      <string>by t0xic0der</string>
